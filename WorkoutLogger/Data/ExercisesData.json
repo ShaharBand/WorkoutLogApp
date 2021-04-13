@@ -1,0 +1,242 @@
+{
+  "Chest": [
+    {
+      "Name": "Bench Press",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Cable Fly",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Decline Bench Press",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Incline Bench Press",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Push ups",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    }
+  ],
+  "Back": [
+    {
+      "Name": "Dead Lift",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Lat Pulldown",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Pull Ups",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Seated Cable Row",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    }
+  ],
+  "Legs": [
+    {
+      "Name": "Calf Raise",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Leg Press",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Trend": 0,
+          "Weight": 0
+        }
+      ]
+    },
+    {
+      "Name": "Squat",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Walking Lunge",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Trend": 0,
+          "Weight": 0
+        }
+      ]
+    }
+  ],
+  "Shoulders": [
+    {
+      "Name": "Cable Lateral Raise",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Front Raise",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Lateral Raise",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    },
+    {
+      "Name": "Overhead Shoulders Press",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    }
+  ],
+  "Arms": [
+    {
+      "Name": "Bicep Curl",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    }
+  ],
+  "Abs": [
+    {
+      "Name": "Crounches",
+      "Data": [
+        {
+          "Date": "01/01/20",
+          "Reps": 0,
+          "Sets": 0,
+          "Weight": 0,
+          "Trend": 0
+        }
+      ]
+    }
+  ]
+}
