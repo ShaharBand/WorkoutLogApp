@@ -25,11 +25,11 @@ https://play.google.com/store/apps/details?id=com.shaharband.workoutlogger
 ### Possible Improvements
 The application contains the default data from built in JSON file on first launch or on failed load operation. 
 
-Providing that, the load and save operation is utilized from Xamarin Essentials User Prefrences to serialize and deserialize the user data from JSON format.
+Providing that, the load and save operation is utilized from Xamarin Essentials User Preferences to serialize and deserialize the user data from JSON format.
 
-Therefore, memory limitations may occur to avoid such scenarios the app limits the log diary history and removes oldest case at limit, making more dynamic operation will lead for greater capacity but for my purposes this is a sufficent solution.
+Therefore, memory limitations may occur to avoid such scenarios the app limits the log diary history and removes oldest case at limit, making more dynamic operation will lead for greater capacity but for my purposes this is a sufficient solution.
 
-The app could be improved using sorting algorithms and defining the diffrent categories as an array looking backwards could shorten the code and support the basic princples of S.O.L.I.D.
+The app could be improved using sorting algorithms and defining the different categories as an array looking backwards could shorten the code and support the basic principles of S.O.L.I.D.
 
 ### To clone this repository:
 
